@@ -15,5 +15,5 @@
 ---
 
 ## NEWS
-- 🔥 Native4D-VAE got accepted by ICML26.
+- Native4D-VAE got accepted by ICML26.
 - Stay tuned.
